@@ -1,7 +1,8 @@
 /* Your CSS Code here. */
 .holder{
 	display:flex;
-	flex-direction: row-reverse;
+	display:flex;
+	flex-wrap:wrap;
 	justify-content:centre;
 }
 .three{
