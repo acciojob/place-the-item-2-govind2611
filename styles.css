@@ -1,9 +1,11 @@
 /* Your CSS Code here. */
 .holder{
-	display:flex;
+	height:100px;
+	width:600px;
 	display:flex;
 	flex-wrap:wrap;
-	justify-content:centre;
+	flex-direction: row-reverse;
+justify-content:center;
 }
 .three{
 	height:100px;
